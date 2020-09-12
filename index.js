@@ -7,6 +7,6 @@ console.log(tom);
 tom.run();
 
 console.log('New Friend');
-var dog = new Dog('Bub');
+var dog = new Dog('Bub', 2);
 dog.bark();
 
